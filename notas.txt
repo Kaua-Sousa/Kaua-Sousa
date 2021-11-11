@@ -1,0 +1,3 @@
+Rafael, 10, 10, 5, 5
+Felipe, 10, 5, 6, 9
+Garibaldo, 6, 7, 8, 10
